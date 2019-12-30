@@ -2,15 +2,13 @@
 
 ![Image alt text](https://snipboard.io/sRec9M.jpg)
 
-***Cerberus_v2018*** is a _3 Dimension Project_. 
-The goal of this project is to ensure a clean, easy-to-die code environment.
+***Cerberus_v2018***
 
 
 ## Project Codenames:
 * MAGIC - Clash of Clans Server
 
 ## Disclaimer
- 
 **ClashLand**'s resources and programs are created by the (**Clashology**) team.  
 **ClashLand** is **NOT** affiliated with '_Supercell, Oy_'.  
 **ClashLand** does **NOT** own '_Clash of Clans_', '_Boom Beach_', '_Clash Royale_', '_Brawl Stars_', and/or '_Hay Day_'.
