@@ -14,4 +14,4 @@
 **ClashLand** does **NOT** own '_Clash of Clans_', '_Boom Beach_', '_Clash Royale_', '_Brawl Stars_', and/or '_Hay Day_'.
 
 ## Discord 
-**https://discord.gg/nXhDBnH
+**https://discord.gg/nXhDBnH**
