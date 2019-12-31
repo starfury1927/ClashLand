@@ -1,4 +1,6 @@
-## ClashLand - Project - [![Build Status](https://dev.azure.com/Antzsmt/ClashLand/_apis/build/status/ClashLand?branchName=master)](https://dev.azure.com/Antzsmt/ClashLand/_build/latest?definitionId=2&branchName=master)
+## ClashLand - Project - [![Build Status](https://dev.azure.com/Antzsmt/ClashLand/_apis/build/status/ClashLand?branchName=master)](https://dev.azure.com/Antzsmt/ClashLand/_build/latest?definitionId=2&branchName=master) [![GitHub issues](https://img.shields.io/github/issues/antzsmt/ClashLand)](https://github.com/antzsmt/ClashLand/issues)
+[![GitHub forks](https://img.shields.io/github/forks/antzsmt/ClashLand)](https://github.com/antzsmt/ClashLand/network)
+[![GitHub stars](https://img.shields.io/github/stars/antzsmt/ClashLand)](https://github.com/antzsmt/ClashLand/stargazers)
 
 ![Image alt text](https://snipboard.io/sRec9M.jpg)
 
