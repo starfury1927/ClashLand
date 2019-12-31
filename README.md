@@ -12,3 +12,4 @@
 **ClashLand**'s resources and programs are created by the (**Clashology**) team.  
 **ClashLand** is **NOT** affiliated with '_Supercell, Oy_'.  
 **ClashLand** does **NOT** own '_Clash of Clans_', '_Boom Beach_', '_Clash Royale_', '_Brawl Stars_', and/or '_Hay Day_'.
+For more info checkout my Discord https://discord.gg/nXhDBnH
